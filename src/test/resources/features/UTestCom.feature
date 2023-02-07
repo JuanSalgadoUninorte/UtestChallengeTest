@@ -8,7 +8,7 @@ Feature: Test Utest
     Given Than Juan want to register himself on the website
     When He complete the first part of the registry
       | FirstName  | LastName      | EmailAddress         | BirthMonth | BirthDay | BirthYear | Languages |
-      | Juan David | Salgado Ariza | jdsa181922@gmail.com | May        | 22       | 2003      | Spanish   |
+      | Juan David | Salgado Ariza | jdsa1822@gmail.com | October        | 27       | 2000      | Spanish   |
     And He complete the second part
       | City   | Zip    | Country  |
       | Soacha | 250056 | Colombia |
